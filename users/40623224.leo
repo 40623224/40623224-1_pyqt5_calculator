@@ -100,7 +100,7 @@
 <v t="leo.20180102003719.1"><vh>心得</vh>
 <v t="leo.20180102003719.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20180102005327.1"><vh>筆記</vh>
+<v t="leo.20180102005327.1" a="E"><vh>筆記</vh>
 <v t="leo.20180102005327.2"><vh>筆記</vh></v>
 </v>
 <v t="leo.20180102005434.1" a="E"><vh>自評成績</vh>
@@ -1783,9 +1783,9 @@ git pull
 </t>
 <t tx="leo.20180102005327.2"># 課本筆記
 
-&lt;img class="beord" src="./image/158715.jpg" &lt;/img&gt;
-&lt;img class="beord" src="./image/158716.jpg" &lt;/img&gt;
-&lt;img class="beord" src="./image/158717.jpg" &lt;/img&gt;
+&lt;img class="beord" src="./image/1.jpg" &lt;/img&gt;
+&lt;img class="beord" src="./image/2.jpg" &lt;/img&gt;
+&lt;img class="beord" src="./image/3.jpg" &lt;/img&gt;
 </t>
 <t tx="leo.20180102005434.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
