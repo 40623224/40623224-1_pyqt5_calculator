@@ -70,10 +70,10 @@
 <v t="leo.20171109005333.1"><vh>W7~W8</vh>
 <v t="leo.20171109005333.2"><vh>e</vh></v>
 </v>
-<v t="leo.20171109005339.1"><vh>心得</vh>
+<v t="leo.20171109005339.1" a="E"><vh>心得</vh>
 <v t="leo.20171109005339.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20171109010939.1"><vh>筆記</vh>
+<v t="leo.20171109010939.1" a="E"><vh>筆記</vh>
 <v t="leo.20171109010939.2"><vh>筆記</vh></v>
 </v>
 <v t="leo.20171109005345.1"><vh>自評成績</vh>
@@ -91,11 +91,20 @@
 <v t="leo.20171225231143.1"><vh>W13</vh>
 <v t="leo.20171225231143.2"><vh>h</vh></v>
 </v>
-<v t="leo.20171225231304.1" a="E"><vh>W14</vh>
+<v t="leo.20171225231304.1"><vh>W14</vh>
 <v t="leo.20171225231304.2"><vh>i</vh></v>
 </v>
-<v t="leo.20171225231536.1" a="E"><vh>W15~W16</vh>
+<v t="leo.20171225231536.1"><vh>W15~W16</vh>
 <v t="leo.20171225231536.2"><vh>j</vh></v>
+</v>
+<v t="leo.20180102003719.1"><vh>心得</vh>
+<v t="leo.20180102003719.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20180102005327.1"><vh>筆記</vh>
+<v t="leo.20180102005327.2"><vh>筆記</vh></v>
+</v>
+<v t="leo.20180102005434.1" a="E"><vh>自評成績</vh>
+<v t="leo.20180102005434.2"><vh>自評成績</vh></v>
 </v>
 <v t="leo.20170911093601.1"><vh>W1 練習</vh>
 <v t="leo.20170911093601.2" a="E"><vh>隨身系統練習</vh>
@@ -1750,6 +1759,47 @@ git pull
 *協力完成計算機程式
 
 *分組期末報告製作
+</t>
+<t tx="leo.20180102003719.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180102003719.2"># 課後心得
+
+從第11週至第16週以來，開始學習計算機的程式以及github的使用和推送。起初對github不熟悉而犯錯，但老師都說初學者犯錯是正常的，雖然很艱辛，但是聽了老師的一席話之後也逐漸的讓自己熟悉起來，到現在為止，對github的提交推送順序也明瞭起來，然而計算機是一個非常苦惱的問題，但還是透過老師不斷的勉勵才得以繼續下去。</t>
+<t tx="leo.20180102005327.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180102005327.2"># 課本筆記
+
+&lt;img class="beord" src="./image/158715.jpg" &lt;/img&gt;
+&lt;img class="beord" src="./image/158716.jpg" &lt;/img&gt;
+&lt;img class="beord" src="./image/158717.jpg" &lt;/img&gt;
+</t>
+<t tx="leo.20180102005434.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180102005434.2"># 自評成績
+
+# 77
+
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {

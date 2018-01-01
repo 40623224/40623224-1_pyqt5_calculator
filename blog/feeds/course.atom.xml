@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE) - Course</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-12-25T11:00:00+08:00</updated><entry><title>2017 Fall CP 第十六週</title><link href="./40623224_2017-fall-cp-w16.html" rel="alternate"></link><published>2017-12-25T11:00:00+08:00</published><updated>2017-12-25T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-12-25:./40623224_2017-fall-cp-w16.html</id><summary type="html">&lt;p&gt;計算機程式&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE) - Course</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/" rel="alternate"></link><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/feeds/course.atom.xml" rel="self"></link><id>https://40623224.github.io/scrum_pyqt5_calculator/blog/</id><updated>2017-12-25T11:00:00+08:00</updated><entry><title>2017 Fall CP 第十六週</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w16.html" rel="alternate"></link><published>2017-12-25T11:00:00+08:00</published><updated>2017-12-25T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-12-25:/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w16.html</id><summary type="html">&lt;p&gt;計算機程式&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;計算機程式&lt;/p&gt;
 
 
@@ -68,7 +68,7 @@ calculate() 方法&lt;/p&gt;
 &lt;p&gt;calculate() 方法中的運算, 以 rightOperand 為右運算數
 當執行加或減運算時, 左運算數為 sumSoFar
 當執行乘或除運算時, 左運算數為 factorSoFar
-若運算過程出現除與 0 時, 將會回傳 False&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W16"></category></entry><entry><title>2017 Fall CP 第十五週</title><link href="./40623224_2017-fall-cp-w15.html" rel="alternate"></link><published>2017-12-18T11:00:00+08:00</published><updated>2017-12-18T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-12-18:./40623224_2017-fall-cp-w15.html</id><summary type="html">&lt;p&gt;W15&lt;/p&gt;
+若運算過程出現除與 0 時, 將會回傳 False&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W16"></category></entry><entry><title>2017 Fall CP 第十五週</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w15.html" rel="alternate"></link><published>2017-12-18T11:00:00+08:00</published><updated>2017-12-18T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-12-18:/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w15.html</id><summary type="html">&lt;p&gt;W15&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W15&lt;/p&gt;
 
 
@@ -94,7 +94,7 @@ ctrl+C 退出&lt;/p&gt;
 &lt;p&gt;期末專案執行相關期程規劃與內容提要&lt;/p&gt;
 &lt;p&gt;影片二:
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/HGMCvzLltko" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;利用 Pandoc 與 MikTeX 協同編寫期末報告&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W15"></category></entry><entry><title>2017 Fall CP 第十四週</title><link href="./40623224_2017-fall-cp-w14.html" rel="alternate"></link><published>2017-12-11T11:00:00+08:00</published><updated>2017-12-11T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-12-11:./40623224_2017-fall-cp-w14.html</id><summary type="html">&lt;p&gt;W14&lt;/p&gt;
+&lt;p&gt;利用 Pandoc 與 MikTeX 協同編寫期末報告&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W15"></category></entry><entry><title>2017 Fall CP 第十四週</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w14.html" rel="alternate"></link><published>2017-12-11T11:00:00+08:00</published><updated>2017-12-11T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-12-11:/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w14.html</id><summary type="html">&lt;p&gt;W14&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W14&lt;/p&gt;
 
 
@@ -129,7 +129,7 @@ git add .&lt;/p&gt;
 &lt;p&gt;若遠端已經有近端沒有的版本資料, 近端用戶
 必須拉下遠端的版本資料, 嘗試進行自動合併
 但是若無法自動合併, 則必須要進行手動合併
-在 fossil 使用 fossil update 拉下遠端資料&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W14"></category></entry><entry><title>2017 Fall CP 第十三週</title><link href="./40623224_2017-fall-cp-w13.html" rel="alternate"></link><published>2017-12-04T11:00:00+08:00</published><updated>2017-12-04T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-12-04:./40623224_2017-fall-cp-w13.html</id><summary type="html">&lt;p&gt;W13&lt;/p&gt;
+在 fossil 使用 fossil update 拉下遠端資料&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W14"></category></entry><entry><title>2017 Fall CP 第十三週</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w13.html" rel="alternate"></link><published>2017-12-04T11:00:00+08:00</published><updated>2017-12-04T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-12-04:/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w13.html</id><summary type="html">&lt;p&gt;W13&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W13&lt;/p&gt;
 
 
@@ -148,7 +148,7 @@ https://github.com/Programmica/pyqt5-tutorial&lt;/p&gt;
 &lt;p&gt;UML in python
 https://github.com/PyCQA/pylint/&lt;/p&gt;
 &lt;p&gt;Python and UML
-https://bitbucket.org/tzulberti/pywebuml&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W13"></category></entry><entry><title>2017 Fall CP 第十二週</title><link href="./40623224_2017-fall-cp-w12.html" rel="alternate"></link><published>2017-11-27T11:00:00+08:00</published><updated>2017-11-27T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-11-27:./40623224_2017-fall-cp-w12.html</id><summary type="html">&lt;p&gt;W12&lt;/p&gt;
+https://bitbucket.org/tzulberti/pywebuml&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W13"></category></entry><entry><title>2017 Fall CP 第十二週</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w12.html" rel="alternate"></link><published>2017-11-27T11:00:00+08:00</published><updated>2017-11-27T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-11-27:/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w12.html</id><summary type="html">&lt;p&gt;W12&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W12&lt;/p&gt;
 
 
@@ -157,13 +157,13 @@ https://bitbucket.org/tzulberti/pywebuml&lt;/p&gt;</content><category term="2017
 &lt;p&gt;設定 git clone 的連線條件, 以及視窗程式在機電系統控制上的應用&lt;/p&gt;
 &lt;p&gt;影片二:
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/jdzFJs-dSJg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;在 Qt Design 所產生的對話框程式中加入數字顯示邏輯&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W12"></category></entry><entry><title>2017 Fall CP 第十一週</title><link href="./40623224_2017-fall-cp-w11.html" rel="alternate"></link><published>2017-11-20T11:00:00+08:00</published><updated>2017-11-20T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-11-20:./40623224_2017-fall-cp-w11.html</id><summary type="html">&lt;p&gt;W11&lt;/p&gt;
+&lt;p&gt;在 Qt Design 所產生的對話框程式中加入數字顯示邏輯&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W12"></category></entry><entry><title>2017 Fall CP 第十一週</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w11.html" rel="alternate"></link><published>2017-11-20T11:00:00+08:00</published><updated>2017-11-20T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-11-20:/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w11.html</id><summary type="html">&lt;p&gt;W11&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W11&lt;/p&gt;
 
 
 &lt;p&gt;https://github.com/40623224/w11&lt;/p&gt;
 &lt;p&gt;註冊github的帳戶.新增w11表單
-將fossil的東西轉移到gitgub協同&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W11"></category></entry><entry><title>2017 Fall CP 第十週</title><link href="./40623224_2017-fall-cp-w10.html" rel="alternate"></link><published>2017-11-13T11:00:00+08:00</published><updated>2017-11-13T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-11-13:./40623224_2017-fall-cp-w10.html</id><summary type="html">&lt;p&gt;W10&lt;/p&gt;
+將fossil的東西轉移到gitgub協同&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W11"></category></entry><entry><title>2017 Fall CP 第十週</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w10.html" rel="alternate"></link><published>2017-11-13T11:00:00+08:00</published><updated>2017-11-13T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-11-13:/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w10.html</id><summary type="html">&lt;p&gt;W10&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W10&lt;/p&gt;
 
 
@@ -214,12 +214,12 @@ path=%path1%;&lt;/p&gt;
 A minimal script to launch leo.
 """&lt;/p&gt;
 &lt;p&gt;import leo.core.runLeo
-leo.core.runLeo.run(fileName="y:/tmp/fossil/wd/2017fall/users/yen.leo")&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W10"></category></entry><entry><title>2017 Fall CP 期中考心得</title><link href="./40623224_2017-fall-cp-w9%E5%BF%83%E5%BE%97.html" rel="alternate"></link><published>2017-11-01T11:00:00+08:00</published><updated>2017-11-01T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-11-01:./40623224_2017-fall-cp-w9心得.html</id><summary type="html">&lt;p&gt;W9心得&lt;/p&gt;
+leo.core.runLeo.run(fileName="y:/tmp/fossil/wd/2017fall/users/yen.leo")&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W10"></category></entry><entry><title>2017 Fall CP 期中考心得</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w9%E5%BF%83%E5%BE%97.html" rel="alternate"></link><published>2017-11-01T11:00:00+08:00</published><updated>2017-11-01T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-11-01:/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w9心得.html</id><summary type="html">&lt;p&gt;W9心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W9心得&lt;/p&gt;
 
 
 &lt;h3&gt;心得影片:&lt;/h3&gt;
-&lt;p&gt;&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/zC5X5aYHd9k" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W9心得"></category></entry><entry><title>2017 Fall CP 第八週考試</title><link href="./40623224_2017-fall-cp-w8%20-%20exam.html" rel="alternate"></link><published>2017-10-30T11:00:00+08:00</published><updated>2017-10-30T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-10-30:./40623224_2017-fall-cp-w8 - exam.html</id><summary type="html">&lt;p&gt;W8 exam&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/zC5X5aYHd9k" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W9心得"></category></entry><entry><title>2017 Fall CP 第八週考試</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w8%20-%20exam.html" rel="alternate"></link><published>2017-10-30T11:00:00+08:00</published><updated>2017-10-30T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-10-30:/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w8 - exam.html</id><summary type="html">&lt;p&gt;W8 exam&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W8 exam&lt;/p&gt;
 
 
@@ -233,7 +233,7 @@ leo.core.runLeo.run(fileName="y:/tmp/fossil/wd/2017fall/users/yen.leo")&lt;/p&gt
 &lt;p&gt;隨身碟內容:100%&lt;/p&gt;
 &lt;p&gt;個人倉儲內容:85%&lt;/p&gt;
 &lt;p&gt;各週上課摘要:75%&lt;/p&gt;
-&lt;p&gt;自評分數:88分&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W8"></category><category term="exam"></category></entry><entry><title>2017 Fall CP 第七週考試</title><link href="./40623224_2017-fall-cp-w7%20-%20exam.html" rel="alternate"></link><published>2017-10-23T11:00:00+08:00</published><updated>2017-10-23T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-10-23:./40623224_2017-fall-cp-w7 - exam.html</id><summary type="html">&lt;p&gt;W7 exam&lt;/p&gt;
+&lt;p&gt;自評分數:88分&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W8"></category><category term="exam"></category></entry><entry><title>2017 Fall CP 第七週考試</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w7%20-%20exam.html" rel="alternate"></link><published>2017-10-23T11:00:00+08:00</published><updated>2017-10-23T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-10-23:/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w7 - exam.html</id><summary type="html">&lt;p&gt;W7 exam&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W7 exam&lt;/p&gt;
 
 
@@ -247,7 +247,7 @@ leo.core.runLeo.run(fileName="y:/tmp/fossil/wd/2017fall/users/yen.leo")&lt;/p&gt
 &lt;p&gt;隨身碟內容:100%&lt;/p&gt;
 &lt;p&gt;個人倉儲內容:85%&lt;/p&gt;
 &lt;p&gt;各週上課摘要:75%&lt;/p&gt;
-&lt;p&gt;自評分數:88分&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W7"></category><category term="exam"></category></entry><entry><title>2017 Fall CP 第六週 - Python3 程式語法練習</title><link href="./40623224_2017-fall-cp-w6.html" rel="alternate"></link><published>2017-10-16T11:00:00+08:00</published><updated>2017-10-16T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-10-16:./40623224_2017-fall-cp-w6.html</id><summary type="html">&lt;p&gt;本週起開始使用 Eric6 IDE 建立 PyQt5 視窗程式, 計算器程式的圖形介面將從 Qt Designer 中, 以滑鼠及視覺化模式建立, 之後再轉為 .py 程式後, 與隨後的程式邏輯進行互動. 請使用者自行下載 Lean Python 電子書與範例程式配合學習.&lt;/p&gt;
+&lt;p&gt;自評分數:88分&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W7"></category><category term="exam"></category></entry><entry><title>2017 Fall CP 第六週 - Python3 程式語法練習</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w6.html" rel="alternate"></link><published>2017-10-16T11:00:00+08:00</published><updated>2017-10-16T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-10-16:/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w6.html</id><summary type="html">&lt;p&gt;本週起開始使用 Eric6 IDE 建立 PyQt5 視窗程式, 計算器程式的圖形介面將從 Qt Designer 中, 以滑鼠及視覺化模式建立, 之後再轉為 .py 程式後, 與隨後的程式邏輯進行互動. 請使用者自行下載 Lean Python 電子書與範例程式配合學習.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;本週起開始使用 Eric6 IDE 建立 PyQt5 視窗程式, 計算器程式的圖形介面將從 Qt Designer 中, 以滑鼠及視覺化模式建立, 之後再轉為 .py 程式後, 與隨後的程式邏輯進行互動. 請使用者自行下載 Lean Python 電子書與範例程式配合學習.&lt;/p&gt;
 
 
@@ -266,7 +266,7 @@ leo.core.runLeo.run(fileName="y:/tmp/fossil/wd/2017fall/users/yen.leo")&lt;/p&gt
 &lt;pre class="brush: python"&gt;
 &lt;/pre&gt;
 
-&lt;p&gt;標註在網誌中加入帶有行數的 Python 程式碼&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W6"></category><category term="PyQt5"></category></entry><entry><title>2017 Fall CP 第五週</title><link href="./40623224_2017-fall-cp-w5.html" rel="alternate"></link><published>2017-10-12T11:00:00+08:00</published><updated>2017-10-12T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-10-12:./40623224_2017-fall-cp-w5.html</id><summary type="html">&lt;p&gt;W5 PyQt5&lt;/p&gt;
+&lt;p&gt;標註在網誌中加入帶有行數的 Python 程式碼&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W6"></category><category term="PyQt5"></category></entry><entry><title>2017 Fall CP 第五週</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w5.html" rel="alternate"></link><published>2017-10-12T11:00:00+08:00</published><updated>2017-10-12T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-10-12:/scrum_pyqt5_calculator/blog/40623224_2017-fall-cp-w5.html</id><summary type="html">&lt;p&gt;W5 PyQt5&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W5 PyQt5&lt;/p&gt;
 
 
@@ -596,7 +596,7 @@ if __name__ == '__main__':
     calc.show()
     sys.exit(app.exec_())
 
-&lt;/pre&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W5"></category><category term="PyQt5"></category></entry><entry><title>網際 Brython 3.3.4 程式執行環境 第四週</title><link href="./40623224-brython-editor-334.html" rel="alternate"></link><published>2017-10-03T11:00:00+08:00</published><updated>2017-10-03T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-10-03:./40623224-brython-editor-334.html</id><summary type="html">&lt;p&gt;Brython 程式環境可以用來練習許多 Python3 的簡單語法, 也可以納入 Javascript 程式庫, 利用 Ajax 模式結合網際瀏覽器與伺服器上的資源解決協同產品設計流程上的問題.&lt;/p&gt;
+&lt;/pre&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W5"></category><category term="PyQt5"></category></entry><entry><title>網際 Brython 3.3.4 程式執行環境 第四週</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224-brython-editor-334.html" rel="alternate"></link><published>2017-10-03T11:00:00+08:00</published><updated>2017-10-03T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-10-03:/scrum_pyqt5_calculator/blog/40623224-brython-editor-334.html</id><summary type="html">&lt;p&gt;Brython 程式環境可以用來練習許多 Python3 的簡單語法, 也可以納入 Javascript 程式庫, 利用 Ajax 模式結合網際瀏覽器與伺服器上的資源解決協同產品設計流程上的問題.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Brython 程式環境可以用來練習許多 Python3 的簡單語法, 也可以納入 Javascript 程式庫, 利用 Ajax 模式結合網際瀏覽器與伺服器上的資源解決協同產品設計流程上的問題.&lt;/p&gt;
 
 
@@ -1027,7 +1027,7 @@ document["tutorial7"].bind("click", tutorial)
 &lt;p&gt;&lt;button id="get"&gt;for1.py&lt;/button&gt;&lt;button id="get_temp1"&gt;temp1.py&lt;/button&gt;&lt;button id="get_ver_and_kw"&gt;ver_and_kw.py&lt;/button&gt;&lt;button id="jansen"&gt;jansen.py&lt;/button&gt;&lt;/p&gt;
 &lt;p&gt;&lt;button id="tutorial1"&gt;tutorial1&lt;/button&gt;&lt;button id="tutorial2"&gt;tutorial2&lt;/button&gt;&lt;button id="tutorial3"&gt;tutorial3&lt;/button&gt;&lt;button id="tutorial4"&gt;tutorial4&lt;/button&gt;&lt;button id="tutorial5"&gt;tutorial5&lt;/button&gt;&lt;button id="tutorial6"&gt;tutorial6&lt;/button&gt;&lt;button id="tutorial7"&gt;tutorial7&lt;/button&gt;&lt;/p&gt;
 &lt;p&gt;Jansen 多連桿機構尺寸圖:&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/jansen_sympy.png" width="800" /&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="cp"></category><category term="brython"></category><category term="w4"></category></entry><entry><title>2017 Fall CP 第三週</title><link href="./40623224_2017-fall-cadp-w3.html" rel="alternate"></link><published>2017-09-25T11:00:00+08:00</published><updated>2017-09-25T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-09-25:./40623224_2017-fall-cadp-w3.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/jansen_sympy.png" width="800" /&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="cp"></category><category term="brython"></category><category term="w4"></category></entry><entry><title>2017 Fall CP 第三週</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224_2017-fall-cadp-w3.html" rel="alternate"></link><published>2017-09-25T11:00:00+08:00</published><updated>2017-09-25T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-09-25:/scrum_pyqt5_calculator/blog/40623224_2017-fall-cadp-w3.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
 
 
@@ -1087,7 +1087,7 @@ Tetris
 Python3 學習參考資料&lt;/p&gt;
 &lt;p&gt;http://openbookproject.net/thinkcs/python/english3e/&lt;/p&gt;
 &lt;p&gt;The Future of Programming?&lt;/p&gt;
-&lt;p&gt;https://vimeo.com/71278954&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP w3"></category></entry><entry><title>2017 Fall CP 第二週</title><link href="./40623224_2017-fall-cadp-w2.html" rel="alternate"></link><published>2017-09-20T11:00:00+08:00</published><updated>2017-09-20T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:None,2017-09-20:./40623224_2017-fall-cadp-w2.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
+&lt;p&gt;https://vimeo.com/71278954&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP w3"></category></entry><entry><title>2017 Fall CP 第二週</title><link href="https://40623224.github.io/scrum_pyqt5_calculator/blog/40623224_2017-fall-cadp-w2.html" rel="alternate"></link><published>2017-09-20T11:00:00+08:00</published><updated>2017-09-20T11:00:00+08:00</updated><author><name>40623224</name></author><id>tag:40623224.github.io,2017-09-20:/scrum_pyqt5_calculator/blog/40623224_2017-fall-cadp-w2.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
 
 
